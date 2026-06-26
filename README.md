@@ -2,7 +2,7 @@
 
 ### Computer Science Graduate | C++ Developer | Robotics Software Engineer Enthusiast
 
-🎓 **B.S. Computer Science Major**
+🎓 **B.S. Computer Science**
 
 I am a Computer Science graduate focused on modern C++ software development for robotics and real-time systems. My interests include autonomous systems, motion planning, embedded software, and high-performance computing.
 
