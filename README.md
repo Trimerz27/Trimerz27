@@ -1,73 +1,113 @@
-Hi, I'm Joel! 👋
-Computer Science Student | Python Developer | Software Engineer
+# Hi, I'm Joel 👋
 
-🎓 B.S. Computer Science, Western Governors University (Expected Graduation: 2026)
+### Computer Science Student | Python Developer | Aspiring Software Engineer
 
-I'm passionate about building software that solves real-world problems through efficient algorithms, clean architecture, and practical engineering. I enjoy developing applications in Python and Java while expanding my knowledge of data structures, backend development, and artificial intelligence.
+🎓 **B.S. Computer Science — Western Governors University (Graduated: 2026)**
 
-🛠️ Featured Projects
-🚚 Logistics Route Optimization System
+I am a Computer Science student focused on building practical software solutions through strong foundations in **data structures, algorithms, object-oriented programming, and software engineering principles**.
 
-Python | Data Structures | Algorithms | CSV Processing
+I enjoy creating applications that solve real-world problems, improving my development skills, and learning how scalable systems are designed.
 
-A package delivery routing simulator that models a real-world logistics network for multiple delivery trucks.
+---
 
-Key Features
+## 🛠️ Featured Projects
 
-Implemented a custom chaining hash table for O(1) average package lookup
-Built a delivery simulation using the Nearest Neighbor heuristic
-Simulated package deliveries with time-based status tracking
-Calculated truck mileage throughout the delivery day
-Normalized address data for reliable distance matrix lookups
-Managed delayed packages and dynamic address corrections
-Designed an interactive command-line interface for package queries
+## 🚚 Logistics Route Optimization System
 
-Skills Demonstrated
+**Python | Data Structures | Algorithms | CSV Processing**
 
-Data Structures
-Algorithms
-Object-Oriented Programming
-Time Complexity Analysis
-Simulation Design
-Python Development
-💻 Technical Skills
+A package delivery simulation application designed to model real-world logistics operations. The system manages packages, delivery routes, truck schedules, and delivery status using custom data structures and optimization techniques.
 
-Languages
+### Key Features
 
-Python
-Java
-C++
-SQL
+- Built a custom **chaining hash table** for efficient package storage and retrieval
+- Implemented a **Nearest Neighbor heuristic** for route optimization
+- Created a time-based delivery simulation system
+- Tracks:
+  - Package status
+  - Delivery times
+  - Truck assignments
+  - Mileage calculations
+- Processes package and distance data from CSV files
+- Handles:
+  - Delayed packages
+  - Address corrections
+  - Multiple truck schedules
+- Developed an interactive command-line interface for package lookups
 
-Computer Science
+### Concepts Demonstrated
 
-Data Structures & Algorithms
-Object-Oriented Programming
-Software Engineering
-Database Design
-Algorithm Analysis
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Algorithm Complexity Analysis
+- Simulation Design
+- File Processing
+- Software Architecture
 
-Tools
+---
 
-Git & GitHub
-Visual Studio Code
-IntelliJ IDEA
-🚀 Currently Working On
-Building additional portfolio projects with Python and Java
-Strengthening backend development skills
-Preparing for software engineering internships and entry-level roles
-📚 Currently Learning
-Advanced Algorithms
-System Design
-Backend Development
-Artificial Intelligence
-Cloud Computing Fundamentals
-🎯 Career Goals
+# 💻 Technical Skills
 
-I'm seeking opportunities where I can contribute as a Software Engineer while continuing to grow my skills in backend development, distributed systems, and scalable software design.
+## Languages
 
-📫 Connect With Me
-GitHub: https://github.com/Trimerz27
-LinkedIn: (Add your LinkedIn profile here)
+- Python
+- Java
+- C++
+- SQL
 
-Thanks for visiting my profile! Feel free to explore my repositories or connect with me.
+## Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Software Development
+- Database Fundamentals
+- Algorithm Design
+- Problem Solving
+
+## Tools
+
+- Git & GitHub
+- Visual Studio Code
+- IntelliJ IDEA
+- Linux
+
+---
+
+# 🚀 Currently Working On
+
+- Building additional software engineering projects
+- Improving backend development skills
+- Expanding knowledge of system design
+- Developing stronger algorithmic problem-solving skills
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Algorithms
+- Backend Development
+- Artificial Intelligence
+- Cloud Computing Fundamentals
+- Software Engineering Practices
+
+---
+
+# 🎯 Career Goals
+
+I am seeking opportunities where I can contribute as a **Software Engineer** while continuing to grow in backend development, scalable software design, and modern application development.
+
+---
+
+# 📫 Connect With Me
+
+GitHub:  
+https://github.com/Trimerz27
+
+LinkedIn:  
+(Add your LinkedIn here)
+
+---
+
+⭐ Thanks for visiting my profile!
+Feel free to explore my projects and follow my journey as I continue growing as a developer.
