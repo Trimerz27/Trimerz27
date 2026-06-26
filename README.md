@@ -1,12 +1,13 @@
 # Hi, I'm Joel 👋
 
-### Computer Science Graduate | C++ Developer | Robotics Software Engineer
+### Computer Science Graduate | C++ Developer | Robotics Software Engineer Enthusiast
 
-🎓 **B.S. Computer Science — (Graduated: 2026)**
+🎓 **B.S. Computer Science Major**
 
-I am a Computer Science graduate focused on developing high-performance software with modern C++. My interests include robotics, autonomous systems, and real-time software, supported by a strong foundation in data structures, algorithms, object-oriented design, multithreading, and software engineering principles.
+I am a Computer Science graduate focused on modern C++ software development for robotics and real-time systems. My interests include autonomous systems, motion planning, embedded software, and high-performance computing.
 
-I enjoy building efficient, reliable software that interacts with hardware, solving complex engineering problems, and learning how scalable robotic systems are designed. I am currently expanding my experience in robotics software development, including C++, Linux, and robotics frameworks such as ROS 2.
+I enjoy building efficient software that solves real-world engineering problems and continuously expanding my knowledge of C++, Linux, robotics frameworks (ROS 2), and computer vision.
+
 ---
 
 ## 🛠️ Featured Projects
