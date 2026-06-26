@@ -1,11 +1,35 @@
-Hi, I'm Joel 👋
+Hi, I'm Joel! 👋
+Computer Science Student | Python Developer | Software Engineer
 
-Computer Science Student
-Western Governors University (WGU)
-🎓 B.S. in Computer Science — Graduated: 2026
+🎓 B.S. Computer Science, Western Governors University (Expected Graduation: 2026)
 
-I'm passionate about building software that solves real-world problems through efficient algorithms, clean architecture, and thoughtful design. My interests include software engineering, data structures and algorithms, backend development, and artificial intelligence.
+I'm passionate about building software that solves real-world problems through efficient algorithms, clean architecture, and practical engineering. I enjoy developing applications in Python and Java while expanding my knowledge of data structures, backend development, and artificial intelligence.
 
+🛠️ Featured Projects
+🚚 Logistics Route Optimization System
+
+Python | Data Structures | Algorithms | CSV Processing
+
+A package delivery routing simulator that models a real-world logistics network for multiple delivery trucks.
+
+Key Features
+
+Implemented a custom chaining hash table for O(1) average package lookup
+Built a delivery simulation using the Nearest Neighbor heuristic
+Simulated package deliveries with time-based status tracking
+Calculated truck mileage throughout the delivery day
+Normalized address data for reliable distance matrix lookups
+Managed delayed packages and dynamic address corrections
+Designed an interactive command-line interface for package queries
+
+Skills Demonstrated
+
+Data Structures
+Algorithms
+Object-Oriented Programming
+Time Complexity Analysis
+Simulation Design
+Python Development
 💻 Technical Skills
 
 Languages
@@ -15,48 +39,35 @@ Java
 C++
 SQL
 
-Core Computer Science
+Computer Science
 
 Data Structures & Algorithms
 Object-Oriented Programming
+Software Engineering
+Database Design
 Algorithm Analysis
-Software Design
-Database Fundamentals
 
 Tools
 
 Git & GitHub
 Visual Studio Code
 IntelliJ IDEA
-
-🚚 Featured Project: Logistics Route Optimization
-
-A Python application that simulates a package delivery system for a fleet of delivery trucks. The program reads package and distance data from CSV files, assigns packages to trucks, and delivers them using a Nearest Neighbor heuristic to efficiently determine delivery routes.
-
-Key Features
-
-Custom chaining hash table for fast package lookup
-Route optimization using a greedy nearest-neighbor algorithm
-Time-based package tracking and delivery simulation
-Truck mileage calculation throughout the delivery day
-Dynamic package status updates
-Address normalization for reliable distance lookups
-Handles delayed packages and address corrections
-Interactive command-line interface for package searches
-Technologies Used
-Python
-CSV Data Processing
-Custom Data Structures
-Greedy Algorithms
-Time Simulation
-🌱 Currently Learning
+🚀 Currently Working On
+Building additional portfolio projects with Python and Java
+Strengthening backend development skills
+Preparing for software engineering internships and entry-level roles
+📚 Currently Learning
 Advanced Algorithms
 System Design
 Backend Development
-Cloud Technologies
 Artificial Intelligence
+Cloud Computing Fundamentals
+🎯 Career Goals
+
+I'm seeking opportunities where I can contribute as a Software Engineer while continuing to grow my skills in backend development, distributed systems, and scalable software design.
+
 📫 Connect With Me
 GitHub: https://github.com/Trimerz27
-LinkedIn: (Add your LinkedIn URL here if you have one.)
+LinkedIn: (Add your LinkedIn profile here)
 
-Thanks for visiting my profile! I'm always looking to learn, build new projects, and grow as a software engineer.
+Thanks for visiting my profile! Feel free to explore my repositories or connect with me.
