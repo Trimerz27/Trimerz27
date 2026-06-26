@@ -47,7 +47,7 @@ A package delivery simulation application designed to model real-world logistics
 
 ---
 
-🤖 AI Health Risk Prediction System  
+## 🤖 AI Health Risk Prediction System  
 Python | Machine Learning | Data Processing | Scikit-Learn
 
 A machine learning prediction system built to analyze health-related data and estimate risk outcomes using ensemble regression models. The project demonstrates an end-to-end ML workflow including data preprocessing, model training, optimization, and performance evaluation.
@@ -135,6 +135,85 @@ Future extensions include integrating real-time sensor data, deployment APIs, an
 - MySQL
 
 ---
+## 🚨 TeamSiren — Natural Disaster Alert Platform  
+React | TypeScript | Python | Flask | SQLite | APIs
+
+A real-time disaster response platform designed to provide users with emergency alerts, assistance, and survival recommendations during natural disasters.
+
+The system focuses on delivering fast, reliable information through location-based alerts and automated notifications.
+
+### 👥 Team
+
+- Daniel Isacc De La Vega
+- Joel Trimmer
+- Nicolas Saliani
+- Rayan Javaid
+- Valeria Salazar
+- William Arnaud Fotso
+
+---
+
+### 🎯 Objectives
+
+- Build a responsive emergency alert web application
+- Develop a reliable disaster notification system
+- Integrate real-time disaster data sources
+- Deliver timely warnings to users
+- Provide emergency resources and survival guidance
+
+---
+
+### ✨ Key Features
+
+- Real-time natural disaster alerts
+- Location-based subscriptions using:
+  - ZIP code
+  - Phone number
+- Automated emergency notifications
+- Interactive map integration
+- Survival guides and safety resources
+- Modern responsive user interface
+
+---
+
+### 🛠️ Tech Stack
+
+### Frontend
+
+- React
+- JavaScript
+- TypeScript
+- Google Maps API integration
+
+### Backend
+
+- Python
+- Flask
+- SQLite3 Database
+- Twilio API
+
+### AI / Data
+
+- WebAI disaster prediction integration
+- Real-time data processing
+
+---
+
+## 🧠 Concepts Demonstrated
+
+- Full-stack web development
+- API integration
+- Database design
+- Real-time notification systems
+- Location-based services
+- User-focused software design
+- Team-based agile development
+
+---
+
+## 🌎 Impact
+
+TeamSiren demonstrates how software engineering and data-driven systems can be used to improve emergency communication and provide users with actionable information during critical situations.
 
 # 🚀 Currently Working On
 
