@@ -69,33 +69,39 @@ A package delivery simulation application designed to model real-world logistics
 
 - Git & GitHub
 - Visual Studio Code
+- PyCharm
 - IntelliJ IDEA
 - Linux
+- MySQL
 
 ---
 
 # 🚀 Currently Working On
 
-- Building additional software engineering projects
-- Improving backend development skills
-- Expanding knowledge of system design
-- Developing stronger algorithmic problem-solving skills
+- Building robotics software projects in modern C++
+- Learning ROS 2 and robotic software architecture
+- Developing motion planning and pathfinding algorithms
+- Improving Linux and systems programming skills
+- Strengthening software design and algorithmic problem solving
 
 ---
 
 # 📚 Currently Learning
 
-- Advanced Algorithms
-- Backend Development
-- Artificial Intelligence
-- Cloud Computing Fundamentals
-- Software Engineering Practices
+- Modern C++ (C++17/C++20)
+- ROS 2
+- Computer Vision with OpenCV
+- Motion Planning
+- Embedded Systems
+- Robotics Algorithms
+- Real-Time Software Development
+- AI Integration
 
 ---
 
 # 🎯 Career Goals
 
-I am seeking opportunities where I can contribute as a **Software Engineer** while continuing to grow in backend development, scalable software design, and modern application development.
+I am seeking opportunities as a C++ Software Engineer or Robotics Software Engineer, where I can contribute to developing reliable, high-performance software for robotics and autonomous systems. My goal is to build expertise in modern C++, Linux, robotics frameworks, and real-time software while working on technologies that bridge software and hardware.
 
 ---
 
