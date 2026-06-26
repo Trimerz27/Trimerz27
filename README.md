@@ -46,6 +46,65 @@ A package delivery simulation application designed to model real-world logistics
 - Software Architecture
 
 ---
+🤖 AI Health Risk Prediction System  
+Python | Machine Learning | Data Processing | Scikit-Learn
+
+A machine learning prediction system built to analyze health-related data and estimate risk outcomes using ensemble regression models. The project demonstrates an end-to-end ML workflow including data preprocessing, model training, optimization, and performance evaluation.
+
+## Key Features
+
+- Built a complete machine learning pipeline from raw dataset to prediction
+- Implemented data preprocessing and validation workflows
+- Developed automated dataset loading and feature preparation
+- Handled missing data and non-numeric input filtering
+- Created multiple regression models for performance comparison
+
+Models Implemented:
+
+- Random Forest Regression
+- Optimized Random Forest using GridSearchCV
+- Regularized Random Forest
+- Extra Trees Regression
+
+Optimization Techniques:
+
+- Hyperparameter tuning
+- Cross-validation
+- Regularization to reduce overfitting
+- Ensemble learning comparison
+
+## Evaluation
+
+Models were evaluated using:
+
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
+The system compares model performance to identify the most reliable approach for predictive accuracy.
+
+## Engineering Concepts Demonstrated
+
+- Machine Learning Pipeline Design
+- Data Preprocessing
+- Feature Engineering
+- Model Optimization
+- Algorithm Analysis
+- Python Software Development
+- Error Handling
+- Reproducible Experiments
+- Version Control with Git
+
+## Robotics / AI Relevance
+
+This project builds foundational skills used in intelligent systems including:
+
+- Sensor data analysis
+- Predictive modeling
+- Autonomous decision support
+- Data-driven robotics applications
+
+Future extensions include integrating real-time sensor data, deployment APIs, and robotics-focused AI workflows.
 
 # 💻 Technical Skills
 
