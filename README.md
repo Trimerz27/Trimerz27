@@ -28,11 +28,13 @@ Tools
 Git & GitHub
 Visual Studio Code
 IntelliJ IDEA
+
 🚚 Featured Project: Logistics Route Optimization
 
 A Python application that simulates a package delivery system for a fleet of delivery trucks. The program reads package and distance data from CSV files, assigns packages to trucks, and delivers them using a Nearest Neighbor heuristic to efficiently determine delivery routes.
 
 Key Features
+
 Custom chaining hash table for fast package lookup
 Route optimization using a greedy nearest-neighbor algorithm
 Time-based package tracking and delivery simulation
