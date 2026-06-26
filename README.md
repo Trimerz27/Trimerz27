@@ -142,7 +142,7 @@ A real-time disaster response platform designed to provide users with emergency 
 
 The system focuses on delivering fast, reliable information through location-based alerts and automated notifications.
 
-### 👥 Team
+### Team
 
 - Daniel Isacc De La Vega
 - Joel Trimmer
@@ -153,7 +153,7 @@ The system focuses on delivering fast, reliable information through location-bas
 
 ---
 
-### 🎯 Objectives
+### Objectives
 
 - Build a responsive emergency alert web application
 - Develop a reliable disaster notification system
@@ -163,7 +163,7 @@ The system focuses on delivering fast, reliable information through location-bas
 
 ---
 
-### ✨ Key Features
+### Key Features
 
 - Real-time natural disaster alerts
 - Location-based subscriptions using:
@@ -176,7 +176,7 @@ The system focuses on delivering fast, reliable information through location-bas
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ### Frontend
 
@@ -199,7 +199,7 @@ The system focuses on delivering fast, reliable information through location-bas
 
 ---
 
-## 🧠 Concepts Demonstrated
+## Concepts Demonstrated
 
 - Full-stack web development
 - API integration
@@ -211,7 +211,7 @@ The system focuses on delivering fast, reliable information through location-bas
 
 ---
 
-## 🌎 Impact
+## Impact
 
 TeamSiren demonstrates how software engineering and data-driven systems can be used to improve emergency communication and provide users with actionable information during critical situations.
 
