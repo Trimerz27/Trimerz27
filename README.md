@@ -105,7 +105,8 @@ GitHub:
 https://github.com/Trimerz27
 
 LinkedIn:  
-(Add your LinkedIn here)
+
+www.linkedin.com/in/joel-trimmer-48b268350
 
 ---
 
